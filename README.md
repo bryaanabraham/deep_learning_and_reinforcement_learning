@@ -1,2 +1,4 @@
-# deep_learning_and_reinforcement_learning
-https://www.coursera.org/learn/deep-learning-reinforcement-learning
+# Deep learning and Reinforcement Learning <br>
+<br>
+This 31(approximately) hour course by IBM offered on the coursera platform can be found at: https://www.coursera.org/learn/deep-learning-reinforcement-learning. <br>
+This repository contains the study material, including the .ipynb jupyter files discussed in the aforementioned mentioned course.
